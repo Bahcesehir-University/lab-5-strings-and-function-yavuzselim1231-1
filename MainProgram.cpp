@@ -84,7 +84,7 @@ public:
 
 MyString::MyString() {
     // TODO: Initialize with empty string
-    data=" ";
+    data="";
 }
 
 MyString::MyString(const string& str) {
